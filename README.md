@@ -1,6 +1,1 @@
-## Day 2 - Prompt Engineering
-
-Experimented with multiple system prompts to analyze how LLM responses vary by tone, role, and structure.
-
-Key takeaway:
-The same input question produces significantly different outputs depending on prompt design, highlighting the importance of prompt engineering in controlling LLM behavior.
+AI-powered salary intelligence assistant built with RAG, LangChain, ChromaDB and Streamlit. Answers natural language questions from 50,000+ cybersecurity salary records
